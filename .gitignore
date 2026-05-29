@@ -1,0 +1,101 @@
+# ========================================
+# Train-LLM Guatemala Fires - .gitignore
+# ========================================
+
+# Archivos sensibles
+.env
+*.env
+.env.local
+.env.*.local
+credentials.json
+*_credentials.json
+
+# API Keys
+*API_KEY*
+*api_key*
+*MAP_KEY*
+
+# Datos (muy pesados para git)
+data/raw/*.csv
+data/raw/*.tif
+data/raw/*.tiff
+data/raw/*.hdf
+data/raw/*.h5
+data/raw/landsat_images/*
+data/processed/*.csv
+data/processed/*.jsonl
+data/processed/images_rgb_512/*
+data/outputs/*.csv
+data/outputs/*.json
+
+# Modelos entrenados (muy pesados)
+models/*.pkl
+models/*.h5
+models/*.pt
+models/*.pth
+models/*.safetensors
+models/qwen3-vl-guatemala-fires/*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+*.ipynb_checkpoints
+
+# Entornos virtuales
+venv/
+env/
+ENV/
+.venv
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Logs
+*.log
+logs/
+
+# Temporal
+tmp/
+temp/
+*.tmp
+
+# Google Colab
+.colab/
+
+# Backups
+*.bak
+*.backup
+
+# Mantener estructura de carpetas vacías
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/outputs/.gitkeep
+!models/.gitkeep
+!visualizations/.gitkeep
+!visualizations/maps/.gitkeep

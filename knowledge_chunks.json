@@ -1,0 +1,200 @@
+[
+  {
+    "chunk_id": 0,
+    "text": "Los incendios forestales a nivel mundial han aumentado un 30% en la última          década según datos satelitales de NASA FIRMS. El sistema MODIS y VIIRS detectan puntos          de calor (hotspots) con una resolución de 375 metros. Las regiones más afectadas incluyen          la Amazonía, el Mediterráneo, California, y el sudeste de Australia.",
+    "source": "NASA FIRMS - Fire Information for Resource Management System",
+    "year": 2023
+  },
+  {
+    "chunk_id": 1,
+    "text": "Las regiones más afectadas incluyen          la Amazonía, el Mediterráneo, California, y el sudeste de Australia. La temporada de          incendios se ha extendido en promedio 18. 7% más que hace 20 años debido al cambio climático.",
+    "source": "NASA FIRMS - Fire Information for Resource Management System",
+    "year": 2023
+  },
+  {
+    "chunk_id": 2,
+    "text": "7% más que hace 20 años debido al cambio climático.",
+    "source": "NASA FIRMS - Fire Information for Resource Management System",
+    "year": 2023
+  },
+  {
+    "chunk_id": 3,
+    "text": "El cambio climático ha incrementado la frecuencia e intensidad de los incendios          forestales. Las temperaturas globales han aumentado 1. 1°C desde la era preindustrial.",
+    "source": "IPCC - Panel Intergubernamental sobre Cambio Climático",
+    "year": 2022
+  },
+  {
+    "chunk_id": 4,
+    "text": "1°C desde la era preindustrial. Las olas de calor, que son un factor clave en la ignición de incendios, son ahora 5 veces          más probables. La sequía prolongada reduce la humedad del combustible vegetal, creando          condiciones ideales para la propagación del fuego.",
+    "source": "IPCC - Panel Intergubernamental sobre Cambio Climático",
+    "year": 2022
+  },
+  {
+    "chunk_id": 5,
+    "text": "La sequía prolongada reduce la humedad del combustible vegetal, creando          condiciones ideales para la propagación del fuego. Se proyecta que para 2050, el riesgo          de incendios extremos aumente entre un 30% y un 57%.",
+    "source": "IPCC - Panel Intergubernamental sobre Cambio Climático",
+    "year": 2022
+  },
+  {
+    "chunk_id": 6,
+    "text": "El Fire Weather Index (FWI) es el sistema estándar internacional para evaluar          el peligro de incendios forestales. Utiliza seis componentes: FFMC (Fine Fuel Moisture Code)          mide la humedad de la hojarasca superficial; DMC (Duff Moisture Code) mide la humedad de          la capa orgánica media; DC (Drought Code) indica la sequía profunda del suelo; ISI (Initial          Spread Index) combina viento y FFMC para estimar la velocidad de propagación; BUI (Buildup          Index) combina DMC y DC para estimar el combustible disponible; FWI integra ISI y BUI en          un índice general. Un FWI superior a 30 indica peligro extremo.",
+    "source": "Sistema Canadiense FWI - Fire Weather Index",
+    "year": 2021
+  },
+  {
+    "chunk_id": 7,
+    "text": "Un FWI superior a 30 indica peligro extremo.",
+    "source": "Sistema Canadiense FWI - Fire Weather Index",
+    "year": 2021
+  },
+  {
+    "chunk_id": 8,
+    "text": "Chile experimentó en 2023 una de las peores temporadas de incendios forestales          de su historia, con más de 430,000 hectáreas quemadas. La región del Biobío fue la más          afectada. Los factores principales fueron: temperaturas superiores a 40°C, humedad relativa          inferior al 20%, y vientos de más de 30 km/h.",
+    "source": "CONAF Chile - Corporación Nacional Forestal",
+    "year": 2023
+  },
+  {
+    "chunk_id": 9,
+    "text": "Los factores principales fueron: temperaturas superiores a 40°C, humedad relativa          inferior al 20%, y vientos de más de 30 km/h. La combinación de sequía prolongada (más de          13 años de megasequía) y la presencia de plantaciones de eucalipto y pino, altamente          inflamables, agravaron la situación. El costo estimado superó los 3,000 millones de dólares.",
+    "source": "CONAF Chile - Corporación Nacional Forestal",
+    "year": 2023
+  },
+  {
+    "chunk_id": 10,
+    "text": "El costo estimado superó los 3,000 millones de dólares.",
+    "source": "CONAF Chile - Corporación Nacional Forestal",
+    "year": 2023
+  },
+  {
+    "chunk_id": 11,
+    "text": "En Estados Unidos, el promedio anual de área quemada ha pasado de 3. 3 millones          de acres en la década de 1990 a más de 7 millones de acres en la década de 2020. California          concentra el 40% de los incendios más destructivos.",
+    "source": "NIFC - National Interagency Fire Center (EE.UU.)",
+    "year": 2022
+  },
+  {
+    "chunk_id": 12,
+    "text": "California          concentra el 40% de los incendios más destructivos. El incendio Camp Fire de 2018 en          Paradise, California, fue el más mortífero con 85 víctimas. Las causas principales son:          rayos (44%), actividad humana (47%), y causas desconocidas (9%).",
+    "source": "NIFC - National Interagency Fire Center (EE.UU.)",
+    "year": 2022
+  },
+  {
+    "chunk_id": 13,
+    "text": "Las causas principales son:          rayos (44%), actividad humana (47%), y causas desconocidas (9%). El costo de supresión          federal superó los 4 mil millones de dólares en 2021.",
+    "source": "NIFC - National Interagency Fire Center (EE.UU.)",
+    "year": 2022
+  },
+  {
+    "chunk_id": 14,
+    "text": "Un estudio de la Universidad de Barcelona demostró que la temperatura es el          factor meteorológico más correlacionado con la ocurrencia de incendios (r=0. 72), seguido          por la humedad relativa inversa (r=-0. 65) y la velocidad del viento (r=0.",
+    "source": "Investigación - Universidad de Barcelona",
+    "year": 2021
+  },
+  {
+    "chunk_id": 15,
+    "text": "65) y la velocidad del viento (r=0. Sin embargo,          el índice FWI, que integra múltiples variables, tiene la correlación más alta (r=0. Los modelos de machine learning, especialmente Random Forest y Gradient Boosting, han          demostrado precisiones superiores al 85% en la predicción de ocurrencia de incendios          cuando se alimentan con datos meteorológicos y del FWI.",
+    "source": "Investigación - Universidad de Barcelona",
+    "year": 2021
+  },
+  {
+    "chunk_id": 16,
+    "text": "Los modelos de machine learning, especialmente Random Forest y Gradient Boosting, han          demostrado precisiones superiores al 85% en la predicción de ocurrencia de incendios          cuando se alimentan con datos meteorológicos y del FWI.",
+    "source": "Investigación - Universidad de Barcelona",
+    "year": 2021
+  },
+  {
+    "chunk_id": 17,
+    "text": "Según la FAO, los incendios forestales destruyen aproximadamente 340 millones          de hectáreas de bosque al año a nivel mundial. Los ecosistemas más vulnerables son los          bosques boreales de Siberia y Canadá, los bosques mediterráneos, y las sabanas tropicales. La prevención es 10 veces más económica que la supresión.",
+    "source": "FAO - Organización de las Naciones Unidas para la Alimentación",
+    "year": 2022
+  },
+  {
+    "chunk_id": 18,
+    "text": "La prevención es 10 veces más económica que la supresión. Las estrategias más efectivas          incluyen: monitoreo satelital en tiempo real, modelos predictivos basados en IA, gestión          del combustible forestal (quemas prescritas), y educación comunitaria.",
+    "source": "FAO - Organización de las Naciones Unidas para la Alimentación",
+    "year": 2022
+  },
+  {
+    "chunk_id": 19,
+    "text": "Europa registró en 2022 la peor temporada de incendios en décadas, con más          de 785,000 hectáreas quemadas. Grecia, España, Portugal y Francia fueron los países más          afectados. El sistema EFFIS utiliza datos de Copernicus para monitorear incendios activos          y evaluar el riesgo.",
+    "source": "European Forest Fire Information System (EFFIS)",
+    "year": 2023
+  },
+  {
+    "chunk_id": 20,
+    "text": "El sistema EFFIS utiliza datos de Copernicus para monitorear incendios activos          y evaluar el riesgo. Los modelos predictivos de EFFIS combinan datos meteorológicos          (temperatura, humedad, viento, precipitación) con índices de vegetación (NDVI) y datos          topográficos (pendiente, altitud, orientación) para generar mapas de riesgo diarios.",
+    "source": "European Forest Fire Information System (EFFIS)",
+    "year": 2023
+  },
+  {
+    "chunk_id": 21,
+    "text": "Los principales factores que determinan el riesgo de incendio forestal son:         1) Temperatura: por encima de 30°C el riesgo aumenta exponencialmente. 2) Humedad Relativa: por debajo del 30% el material vegetal se seca rápidamente. 3) Velocidad del Viento: vientos superiores a 20 km/h propagan el fuego rápidamente.",
+    "source": "Estudio - Factores de Riesgo de Incendios",
+    "year": 2020
+  },
+  {
+    "chunk_id": 22,
+    "text": "3) Velocidad del Viento: vientos superiores a 20 km/h propagan el fuego rápidamente. 4) Precipitación: períodos sin lluvia superiores a 7 días incrementan significativamente          el riesgo. 5) Tipo de vegetación: las coníferas y el eucalipto son altamente inflamables.",
+    "source": "Estudio - Factores de Riesgo de Incendios",
+    "year": 2020
+  },
+  {
+    "chunk_id": 23,
+    "text": "5) Tipo de vegetación: las coníferas y el eucalipto son altamente inflamables. 6) Topografía: las pendientes pronunciadas aceleran la propagación del fuego. 7) Actividad humana: el 90% de los incendios en Europa son de origen antrópico.",
+    "source": "Estudio - Factores de Riesgo de Incendios",
+    "year": 2020
+  },
+  {
+    "chunk_id": 24,
+    "text": "7) Actividad humana: el 90% de los incendios en Europa son de origen antrópico.",
+    "source": "Estudio - Factores de Riesgo de Incendios",
+    "year": 2020
+  },
+  {
+    "chunk_id": 25,
+    "text": "Las tecnologías modernas para la predicción de incendios forestales incluyen:         Satélites (MODIS, VIIRS, Sentinel-2) para detección de puntos de calor en tiempo real. Drones equipados con cámaras térmicas para vigilancia de zonas de alto riesgo. Sensores IoT en el terreno que miden temperatura, humedad y gases.",
+    "source": "Reporte - Tecnologías de Predicción de Incendios",
+    "year": 2023
+  },
+  {
+    "chunk_id": 26,
+    "text": "Sensores IoT en el terreno que miden temperatura, humedad y gases. Modelos de Machine Learning (Random Forest, XGBoost, Redes Neuronales) que procesan          datos meteorológicos históricos para predecir la probabilidad de incendio. Sistemas RAG (Retrieval-Augmented Generation) que combinan bases de datos de incendios          históricos con LLMs para generar análisis contextuales y recomendaciones.",
+    "source": "Reporte - Tecnologías de Predicción de Incendios",
+    "year": 2023
+  },
+  {
+    "chunk_id": 27,
+    "text": "Sistemas RAG (Retrieval-Augmented Generation) que combinan bases de datos de incendios          históricos con LLMs para generar análisis contextuales y recomendaciones.",
+    "source": "Reporte - Tecnologías de Predicción de Incendios",
+    "year": 2023
+  },
+  {
+    "chunk_id": 28,
+    "text": "El análisis de 10 años de datos de incendios forestales revela patrones          temporales claros: el 78% de los incendios ocurren entre junio y septiembre en el          hemisferio norte. Los meses más peligrosos son julio y agosto, cuando la temperatura          media supera los 35°C y la humedad cae por debajo del 25%. Existe una correlación          significativa entre el fenómeno de El Niño y el aumento de incendios en Sudamérica          y el sudeste asiático.",
+    "source": "Análisis Estadístico - Patrones Temporales de Incendios",
+    "year": 2022
+  },
+  {
+    "chunk_id": 29,
+    "text": "Existe una correlación          significativa entre el fenómeno de El Niño y el aumento de incendios en Sudamérica          y el sudeste asiático. Los incendios nocturnos, aunque menos frecuentes, son más          difíciles de controlar debido a la inversión térmica.",
+    "source": "Análisis Estadístico - Patrones Temporales de Incendios",
+    "year": 2022
+  },
+  {
+    "chunk_id": 30,
+    "text": "Un sistema de alerta temprana efectivo para incendios forestales debe incluir:         Nivel Verde (FWI < 10): Riesgo bajo, operaciones normales. Nivel Amarillo (FWI 10-20): Riesgo moderado, aumentar vigilancia. Nivel Naranja (FWI 20-30): Riesgo alto, activar brigadas de prevención.",
+    "source": "Guía de Prevención - Protocolo de Alerta Temprana",
+    "year": 2023
+  },
+  {
+    "chunk_id": 31,
+    "text": "Nivel Naranja (FWI 20-30): Riesgo alto, activar brigadas de prevención. Nivel Rojo (FWI > 30): Riesgo extremo, prohibir actividades en zonas forestales. Las condiciones críticas se definen como: temperatura > 35°C, humedad < 25%,          viento > 25 km/h, y sin lluvia en los últimos 10 días.",
+    "source": "Guía de Prevención - Protocolo de Alerta Temprana",
+    "year": 2023
+  },
+  {
+    "chunk_id": 32,
+    "text": "Las condiciones críticas se definen como: temperatura > 35°C, humedad < 25%,          viento > 25 km/h, y sin lluvia en los últimos 10 días. Cuando se cumplen 3 de          estas 4 condiciones simultáneamente, la probabilidad de incendio supera el 80%.",
+    "source": "Guía de Prevención - Protocolo de Alerta Temprana",
+    "year": 2023
+  }
+]

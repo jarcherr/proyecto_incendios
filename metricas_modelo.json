@@ -1,0 +1,65 @@
+{
+  "accuracy": 0.88,
+  "auc_roc": 0.8662,
+  "feature_importance": {
+    "FWI": 0.2244,
+    "DMC": 0.1426,
+    "BUI": 0.123,
+    "FFMC": 0.1065,
+    "Temperature": 0.1044,
+    "RH": 0.0885,
+    "ISI": 0.0729,
+    "Rain": 0.0556,
+    "DC": 0.0422,
+    "Ws": 0.0399
+  },
+  "feature_columns": [
+    "Temperature",
+    "RH",
+    "Ws",
+    "Rain",
+    "FFMC",
+    "DMC",
+    "DC",
+    "ISI",
+    "BUI",
+    "FWI"
+  ],
+  "confusion_matrix": [
+    [
+      16,
+      7
+    ],
+    [
+      5,
+      72
+    ]
+  ],
+  "classification_report": {
+    "No Incendio": {
+      "precision": 0.7619047619047619,
+      "recall": 0.6956521739130435,
+      "f1-score": 0.7272727272727273,
+      "support": 23.0
+    },
+    "Incendio": {
+      "precision": 0.9113924050632911,
+      "recall": 0.935064935064935,
+      "f1-score": 0.9230769230769231,
+      "support": 77.0
+    },
+    "accuracy": 0.88,
+    "macro avg": {
+      "precision": 0.8366485834840265,
+      "recall": 0.8153585544889892,
+      "f1-score": 0.8251748251748252,
+      "support": 100.0
+    },
+    "weighted avg": {
+      "precision": 0.8770102471368294,
+      "recall": 0.88,
+      "f1-score": 0.8780419580419582,
+      "support": 100.0
+    }
+  }
+}
